@@ -12,16 +12,16 @@ A seguir segue a lista de ferramentas e extensões que serão utilizadas para o 
 - Angular JS
 - Astah Professional
 
-.pas (Arquivos de código fonte)
-.dfm (Arquivos de formulários)
-.dcu (Arquivos de código fonte compilados)
-.dpr, .dproj (Arquivos de projeto)
-.exe (Arquivo executável do servidor)
-.dof (Arquivos de opções de projeto)
-.fdb (Arquivos de banco de dados)
-.js
-.html
-.css
+* .pas (Arquivos de código fonte)
+* .dfm (Arquivos de formulários)
+*.dcu (Arquivos de código fonte compilados)
+* .dpr, .dproj (Arquivos de projeto)
+* .exe (Arquivo executável do servidor)
+* .dof (Arquivos de opções de projeto)
+* .fdb (Arquivos de banco de dados)
+* .js
+* .html
+* .css
 
 ### Componentes da Equipe ###
 
